@@ -1,4 +1,4 @@
-# 💊 One custom tool. One clear example.
+# 💊 Custom Tool Example - Pharma Command 
 
 ![Agent Engine](https://img.shields.io/badge/Agent_Engine-Custom_Tool-A78BFA?style=for-the-badge)
 ![Atlas](https://img.shields.io/badge/MongoDB_Atlas-Optional_Data_Source-00ED64?style=for-the-badge)
