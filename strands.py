@@ -1,7 +1,7 @@
 """Pharma Stockout demo using Streamlit, Strands Agents, and MongoDB Atlas.
 
 Run with your existing Python 3.10+ environment and Streamlit:
-    python -m streamlit run stockout.py
+    python -m streamlit run strands.py
 
 Paste your Atlas URI and OpenAI key into the sidebar. Use an Atlas deployment
 with Automated Embedding and a database user that can write and create indexes
